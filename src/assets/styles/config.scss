@@ -1,0 +1,20 @@
+:root {
+  --color-default-white: #ffffff;
+  --color-default-black: #000000;
+  --color-transparent: rgba(255, 255, 255, 0);
+
+  // Именуем только по www.htmlcsscolor.com
+  // Состояния цветов заносим в переменные
+  --color-rajah: #F6B26B;
+}
+
+$font-size: 16;
+$line-height: 1.65;
+$default-font: roboto-example, sans-serif;
+
+$view-port-xs: 576px;
+$view-port-sm: 768px;
+$view-port-md: 1024px;
+$view-port-lg: 1280px;
+$view-port-xl: 1440px;
+$view-port-xxl: 1800px;

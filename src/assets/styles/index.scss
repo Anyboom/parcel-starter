@@ -1,0 +1,11 @@
+@use "fonts";
+@use "config";
+@use "reset";
+
+@use "mixins";
+@use "common";
+
+@use "libs/tailwind.css";
+
+// ================================
+// Остальные файлы подключаем снизу.
